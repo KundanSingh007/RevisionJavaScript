@@ -1,0 +1,13 @@
+.HeaderMain {
+  display: flex;
+  grid: auto auto / auto auto auto auto;
+  grid-gap: 20px;
+  background-color: rgb(0, 92, 128);
+  padding: 20px;
+}
+.main {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px 10;
+  font-size: 30px;
+}
