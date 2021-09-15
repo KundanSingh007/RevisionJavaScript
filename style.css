@@ -11,3 +11,9 @@
   padding: 20px 10;
   font-size: 30px;
 }
+
+.secondMain {
+  display: flex;
+  grid: auto auto;
+  grid-gap: 20px;
+}
